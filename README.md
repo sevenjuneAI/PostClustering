@@ -12,7 +12,9 @@ Part of Data Analysis and Modeling stages in Data Science.
 
 
 # 👩🏻‍💻 POST
- SCRAPED FROM :                                                     
- wordpress.com                                                      
- quotes.toscrape.com
-
+# SCRAPED FROM :                                                     
+    wordpress.com                                                      
+    quotes.toscrape.com
+# cluster FROM :  
+    wordpress.com                                                      
+    quotes.toscrape.com
