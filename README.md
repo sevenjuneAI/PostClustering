@@ -15,6 +15,6 @@ Part of Data Analysis and Modeling stages in Data Science.
 # SCRAPED FROM :                                                     
     wordpress.com                                                      
     quotes.toscrape.com
-# cluster FROM :  
+# CLUSTER FROM :  
     wordpress.com                                                      
     quotes.toscrape.com
