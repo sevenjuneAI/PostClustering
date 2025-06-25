@@ -3,6 +3,7 @@
 A Python framework for web scraping.
 Used to collect data from websites automatically.
 Fits under Data Collection, the first step in the Data Science process.
+![](scrapy.png)
 
 # 🧠 Clustering
 
