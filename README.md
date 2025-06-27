@@ -10,6 +10,7 @@ Fits under Data Collection, the first step in the Data Science process.
 A type of unsupervised machine learning.
 Groups similar data points together (e.g., K-Means, DBSCAN).
 Part of Data Analysis and Modeling stages in Data Science.
+![](cluster.png)
 
 
 # 👩🏻‍💻 POST
